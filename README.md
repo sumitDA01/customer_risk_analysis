@@ -1,7 +1,7 @@
 # customer_risk_analysis
 
 # Overview
-This Power BI Churn Dashboard is a comprehensive analytics tool designed to provide insights into customer churn within your organization. 
+This Power BI Churn Dashboard is a comprehensive analytics tool designed to provide insights into customer churn within the organization. 
 This readme file provides an overview of the "Demographics," "Customer Account Information," "Services," and "Customer Risk Analysis" sections of the dashboard.
 
 In this different two Dashboard  i have ananlyzed the data of customer retention the table consist of customerid,gender,senor citizen , etc
